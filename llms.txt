@@ -1,0 +1,21 @@
+# Tender Tokens Studio
+
+Tender Tokens Studio is a small handmade studio that turns everyday paper ephemera — receipts, labels, wrappers, tickets, and notes — into preserved keepsakes called "tender tokens." The work is personal, tactile, and rooted in the idea that small paper scraps carry big feelings.
+
+## What we do
+
+We create handmade, one-of-a-kind paper keepsakes from the bits of everyday life people almost throw away. Customers send us their scraps — or inquire about a custom token — and we compose, layer, tape, and treasure them into something worth keeping.
+
+## Contact & links
+
+- **Website:** https://tendertokensstudio.com/
+- **Inquiries:** cmpelaez@me.com
+- **Instagram:** @tendertokensstudio
+
+## Tone
+
+Warm, handmade, quietly whimsical. Not corporate. Not minimal. Feels like a note written with a good pen on nice paper.
+
+## Technical note
+
+This is a static HTML/CSS/JS site with no backend, no e-commerce, and no user accounts. Inquiry is by email only.
